@@ -1,0 +1,19 @@
+SYSTEM SUMMARY REPORT
+
+Total RAM:
+(Record value from free -h)
+
+Available RAM:
+(Record value from free -h)
+
+Disk Usage:
+(Record value from df -h)
+
+System Uptime:
+(Record value from uptime)
+
+Kernel Version:
+(Record value from uname -a)
+
+Summary:
+The system is functioning normally. Resource usage and uptime information were collected using Linux monitoring commands. These commands help administrators identify performance issues and maintain system health.
